@@ -6,7 +6,7 @@ is tell Tabby what tabs you want and where to find their content.
 
 Each tab's content is provided by its own url, local or remote.
 
-Check out the [http://borkabrak.org/tabby](demo)
+Check out the [demo](http://borkabrak.org/tabby)
 
 HOWTO
 =====
